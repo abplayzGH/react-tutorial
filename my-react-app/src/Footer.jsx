@@ -3,7 +3,7 @@
 function Footer(){
     return(
         <footer>
-            <p>&copy; {new Date().getFullYear()} Imposter</p>
+            <p className="footer">&copy; {new Date().getFullYear()} Imposter</p>
         </footer>
     );
 }
