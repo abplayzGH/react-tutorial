@@ -9,7 +9,7 @@ function App() {
     <>
       <Header/>
       <Card/>
-      <Student name="spongeBob"/>
+      <Student name="Spongebob"/>
       <Footer/>
     </>
 
